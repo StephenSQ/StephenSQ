@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @StephenSQ
-- 👀 I’m interested in making video games and programming
-- 🌱 I’m currently learning how to make video games..
-- 💞️ I’m looking to collaborate on someone?
-- 📫 How to reach me : ig @le.strange.lizert
-
-<!---
-StephenSQ/StephenSQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am the noob programmer who remakes minesweeper on every new language I learn. My first achievement is making minesweeper in C with only printf as display and you type your inputs(coordinates) instead of clicking the tiles. And you don't flag the mines, you remember where they are and avoid inputing that coordinate.
+I got into programming through CS50's free course on the internet https://cs50.harvard.edu/x/2022/
