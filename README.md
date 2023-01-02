@@ -1,2 +1,1 @@
-I am the noob programmer who remakes minesweeper on every new language I learn. My first achievement is making minesweeper in C with only printf as display and you type your inputs(coordinates) instead of clicking the tiles. And you don't flag the mines, you remember where they are and avoid inputing that coordinate.
-I got into programming through CS50's free course on the internet https://cs50.harvard.edu/x/2022/
+I am the Ligma Code. Fear me mortals.
